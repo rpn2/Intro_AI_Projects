@@ -1,4 +1,4 @@
-Demonstration of Constraint Satifaction Problem 
+Demonstration of solving Constraint Satisfaction Problem 
 
 Problem to solve: Flow free puzzle
 
