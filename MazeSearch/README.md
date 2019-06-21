@@ -1,15 +1,13 @@
-#Maze search for Pacman finding a single pellet
+Maze search for Pacman finding a single pellet
 
-#Input files are in *.txt, P denotes Pacman, pellet is denoted by ".", "*", is roadblocks in path
+Input files are in *.txt, P denotes Pacman, pellet is denoted by ".", "*", is roadblocks in path
 
-#Algorithmns implemented 
+Algorithmns implemented 
 
-#1) DFS
-#2) BFS
-#3) Astar
-#4) Greedy
+1) DFS
+2) BFS
+3) Astar
+4) Greedy
 
 
-#Files
-
-#Toplevel : testSearchPart1.py
+Toplevel : testSearchPart1.py
